@@ -1,6 +1,6 @@
 # About me
 
-Hi, I am @isaali, a hardworking and ambitious individual with a great passion for Information Technology and Artificial Intelligence.
+Hi, I am Isa-Ali Kirca, a hardworking and ambitious individual with a great passion for Information Technology and Artificial Intelligence.
 Last year I have finished my Bachelor’s degree in Information Science. Currently I am pursuing a Master’s degree in Artificial Intelligence at the University of Amsterdam.
 
 # Contact
