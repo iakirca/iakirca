@@ -7,6 +7,6 @@ Last year I have finished my Bachelor’s degree in Information Science. Current
 
 Isa-Ali Kirca | BSc Information Science | MSc Artificial Intelligence | University of Amsterdam
 
-- Website: iakirca.com
 - E-mail: iakirca@hotmail.com
+- Website: https://iakirca.github.io
 - LinkedIn: https://www.linkedin.com/in/isa-ali-kirca/
